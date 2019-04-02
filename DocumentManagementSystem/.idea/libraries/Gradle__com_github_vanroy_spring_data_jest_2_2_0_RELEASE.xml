@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vanroy:spring-data-jest:2.2.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vanroy/spring-data-jest/2.2.0.RELEASE/e7277f1fb10d4c7d520a838bd036c3ebcd29579b/spring-data-jest-2.2.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vanroy/spring-data-jest/2.2.0.RELEASE/8fceec4e6423296955fd49547d047142a350a8d6/spring-data-jest-2.2.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
